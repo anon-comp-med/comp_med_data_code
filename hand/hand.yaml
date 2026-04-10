@@ -1,0 +1,30 @@
+DATASET:
+  TYPE: "hand"
+  CACHE_DIR: "cache/hands/"
+  IMAGE_EXT: ".jpg"
+  KEY_POINTS: 37 
+  PIXEL_SIZE:          
+  - 1
+  - 1
+  CACHED_IMAGE_SIZE:
+    - 512
+    - 512
+  DISTANCE: 50
+
+TRAIN:
+  BATCH_SIZE: 8
+  LR: 0.001
+  EPOCHS: 100
+
+MODEL:
+  ENCODER_NAME: 'resnet34'
+  ENCODER_WEIGHTS: 'imagenet'
+  DECODER_CHANNELS:
+    - 256 
+    - 256 
+    - 256 
+    - 128 
+    - 64  
+  IN_CHANNELS: 1
+
+
