@@ -1,6 +1,8 @@
 ## Introduction
 Code for all tests can be found here for the Digital Hand Dataset. **All splits used can be found in hand/.**
 
+![Plotted ground truths on hand X-ray](hand.png)
+
 
 ## Requirements
 - Python 3 
