@@ -1,5 +1,5 @@
 ## Introduction
-Code for all tests can be found here for the Digital Hand Dataset. **All splits used can be found in hand/.**
+Code for all tests can be found here for the Digital Hand Dataset. **All splits used can be found in hand/.** The full-shot split is the same at that in [Zhu et al., “You only learn once: Universal anatomical landmark detection,"](https://arxiv.org/abs/2103.04657).
 
 <img src="hand.png" alt="Plotted ground truths on hand X-ray" width="600">
 
