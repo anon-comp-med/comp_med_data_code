@@ -74,6 +74,6 @@ with the .csv of outputs from test_dp.py.
 
 
 ## Acknowledgement
-Code for both models is adapted from [FM-OSD](https://github.com/JuzhengMiao/FM-OSD) and [UNet](https://github.com/jfm15/ContourHuggingHeatmaps).
+Code for both models is adapted from [FM-OSD](https://github.com/JuzhengMiao/FM-OSD) and [UNet](https://github.com/jfm15/ContourHuggingHeatmaps). The authors would like to acknowledge the use of the University of Oxford Advanced Research Computing (ARC) facility in carrying out this work: https://doi.org/10.5281/zenodo.22558.
 
 
